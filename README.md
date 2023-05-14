@@ -2,7 +2,7 @@
 This project is licensed under the terms of the MIT license.
 EGM722 Assignment
 1. Getting Started 
-Downloading git, GitHub desktop, and Anaconda on your PC is the first thing you must do. Download here GitHub Desktop, Anaconda, and Git .
+Downloading git, GitHub desktop, and Anaconda on your PC is the first thing you must do. Download here GitHub Desktop: https://desktop.github.com/ , Anaconda: https://docs.anaconda.com/free/anaconda/install/, and Git: https://github.com/git-guides/install-git .
 2. Installation/clone this repository
 Once all the programs above are installed, you need a GitHub account, if you already have then you can clone this repository of this project to your computer by performing the following steps:
 
