@@ -1,0 +1,11 @@
+name: egm722
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - geopandas
+  - cartopy
+  - notebook
+  - pyepsg
+  - cartopy>=0.21

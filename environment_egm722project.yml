@@ -9,5 +9,4 @@ dependencies:
   - notebook
   - pyepsg
   - cartopy>=0.21
-  - rasterio
   - folium
